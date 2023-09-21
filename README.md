@@ -1,1 +1,1 @@
-# Boolean-function-and-ALU
+# Boolean Arithmetic and the ALU
